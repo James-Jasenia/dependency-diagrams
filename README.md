@@ -83,7 +83,7 @@ class APIService: NewsFeedAPI {
 
 <br />
 
-![Depends On](/WeaklyDependsOn.png)
+![Depends On](/WeakDependencyOn.png)
 
 <br />
 
