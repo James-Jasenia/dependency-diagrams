@@ -3,7 +3,7 @@
 Essential Developer - Caio and Mike
 
 # Example
-![Dependency Diagram](/DependencyDiagram.png)
+![Dependency Diagram](/DependencyDiagramExample.png.png)
 
 # Interpreting
 ### Solid line, empty head = "Inherits from" / "Is a"
