@@ -3,7 +3,7 @@
 Essential Developer - Caio and Mike
 
 # Example
-![alt text](/DependencyDiagram.png)
+![Dependency Diagram](/DependencyDiagram.png)
 
 # Purpose
 
