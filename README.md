@@ -14,6 +14,8 @@ import UIKit
 
 class NewsFeedViewController: UIViewController {}
 ```
+![Inherits From](/InheritsFrom.png)
+
 
 - Is a
 - Implements
