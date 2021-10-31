@@ -35,15 +35,17 @@ class NewsFeedVieController {
 ![Depends On](/DependsOn.png)
 
 ### Dashed line, open head = "Conforms to" / "Implements"
-This denotes that a class conforms to or implements a protocol/interface. In the example below, the NewsFeedAPI implements the APIService protocol.
+This denotes that a class conforms to or implements a protocol/interface. In the example below, the APIService implements the NewsFeedAPI protocol.
 ```
-class NewsFeedAPI: APIService {
+class APIService: NewsFeedAPI {
 
   //Protocol Methods.
 
 }
 ```
+![Depends On](/ConformsTo.png)
 
-- Is a
-- Implements
+
+### Dashed line, filled head = "Weakly depends on"
+
 
