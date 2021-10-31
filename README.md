@@ -19,6 +19,7 @@ class NewsFeedViewController: UIViewController {}
 <br />
 <br />
 <br />
+
 # Solid line, closed head = "Strong dependency on" / "Has a"
 ![Depends On](/DependsOn.png)
 This denotes that a class has an instance of another class that is created upon point of initialisation or is injected. It is best practice to inject this dependency using property or constructor injection.
