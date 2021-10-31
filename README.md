@@ -79,7 +79,7 @@ class APIService: NewsFeedAPI {
 <br />
 <br />
 
-### Dashed line, filled head = "Weakly depends on"
+# Dashed line, filled head = "Weakly depends on"
 
 <br />
 
