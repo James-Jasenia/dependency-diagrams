@@ -3,10 +3,10 @@
 Essential Developer - Caio and Mike
 
 ![Dependency Diagram](/DependencyDiagramExample.png)
-
-
-
-
+<br />
+<br />
+<br />
+<br />
 # Solid line, empty head = "Inherits from" / "Is a"
 ![Inherits From](/InheritsFrom.png)
 This denotes that a class is inheriting from another class. In the example below, the NewsFeedViewConroller is inheriting from UIViewController, a class within the UIKit module. In this specific example, it is highlighting a modular dependency upon UIKit.
