@@ -32,6 +32,8 @@ class NewsFeedVieController {
 }
 ```
 
+![Depends On](/DependsOn.png)
+
 - Is a
 - Implements
 - Depends on
